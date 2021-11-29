@@ -1,6 +1,6 @@
 ---
-title: TEST
-linktitle: ПРОВЕРКА
+title: TEST once more
+linktitle: ПРОВЕРКА and again PROVERKA
 type: book
 date: "2019-05-05T00:00:00+01:00"
 
@@ -12,10 +12,8 @@ weight: 1
 
 
 
-Aliquam i
+moonlight serenade
 
 ## Topics
 
-Lorem ipsum 
-
-
+ok ok ok
