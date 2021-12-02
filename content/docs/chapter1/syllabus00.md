@@ -1,18 +1,20 @@
 ---
-title: TEST
-linktitle: ТЕСТ
+title: Пётр Яковлевич Чаадаев
+linktitle: О Чаадаеве
 type: book
 date: "2019-05-05T00:00:00+01:00"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
-
+Пётр Яковлевич Чаадаев `(27 мая (7 июня) 1794 г)(Близнецы/Тигр)(22)`
 ## Goals
 
+О Петре Чаадаеве обязательно надо написать!
 
+Он один из пророков того времени, как и Пушкин.
 
-moonlight serenade
+Нашу церковь до сих пор трясет при одном упоминании его фамилии.
 
 ## Topics
 
