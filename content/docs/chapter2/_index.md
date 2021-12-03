@@ -1,25 +1,25 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 2
+linktitle: КНИГА КНИГ
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 icon: book-reader
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 2
+title: ОСНОВЫ
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
-## Flexibility
+## Тайна трех проматерей
 
-This feature can be used for publishing content such as:
+Это главное:
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-* **Notes**
+* **Алеф** - это нейтральные и биполярные. Те, кто склоняются к 2-ке или 9-ке
+* **Шин**  - это 2-ка
+* **Мем** - это 9-ка и ее сателит - 4-ка
+
 
 The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
 
