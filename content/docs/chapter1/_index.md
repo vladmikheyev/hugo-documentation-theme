@@ -1,20 +1,20 @@
 ---
 # Title, summary, and page position.
-linktitle: Раздел 1. "О-s"
+linktitle: Книга 1. "Пушкин"
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Раздел 1. "О-s"
+title: "Пушкин"
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
 
 ## Поговорим о разных людях
 
-Начнем с Александра Сергеевича. 
+Начнем с Александра Сергеевича.
 
 This feature can be used for publishing content such as:
 
