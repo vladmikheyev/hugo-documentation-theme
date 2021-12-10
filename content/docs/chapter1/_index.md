@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Книга 1. "Пушкин"
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+summary: Восстань пророк...
 weight: 1
 icon: book
 icon_pack: fas
@@ -15,6 +15,8 @@ type: book  # Do not modify.
 ## Поговорим о разных людях
 
 Начнем с Александра Сергеевича.
+
+[Пушкин против "Девятки"](http://samlib.ru/m/miheew_w_g/pushkin.shtml)
 
 This feature can be used for publishing content such as:
 
