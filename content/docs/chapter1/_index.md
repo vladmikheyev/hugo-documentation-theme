@@ -14,6 +14,8 @@ type: book  # Do not modify.
 
 ## Александр Сергеевич Пушкин 
 
+![А.С.Пушкин](/Pushkin.png)
+
 [Пушкин против "Девятки"](http://samlib.ru/m/miheew_w_g/pushkin.shtml)
 
 _(все даты по старому стилю)_
