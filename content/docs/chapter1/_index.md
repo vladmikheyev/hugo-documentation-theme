@@ -8,7 +8,7 @@ icon_pack: fas
 
 # Page metadata.
 title: "Пушкин"
-date: "2021-12-12T00:00:00Z"
+date: "2021-10-10T00:00:00Z"
 type: book  # Do not modify.
 ---
 
