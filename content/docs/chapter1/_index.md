@@ -18,6 +18,8 @@ type: book  # Do not modify.
 
 [Пушкин против "Девятки"](http://samlib.ru/m/miheew_w_g/pushkin.shtml)
 
+![Векторное кольцо](/wkwremenpushkina.png)
+
 This feature can be used for publishing content such as:
 
 * **Online courses**
