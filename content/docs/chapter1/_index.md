@@ -22,6 +22,7 @@ _(все даты по старому стилю)_
 
 ![Векторное кольцо](/wkwremenpushkina.png)
 
+[1. О Пушкине и Судье](/content/docs/chapter1/O-Pushkine-i-Sudye.md)
 
 
 
