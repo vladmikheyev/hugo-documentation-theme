@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
 linktitle: Книга 1. "Пушкин"
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+summary: ls.
 weight: 2
 icon: book
 icon_pack: fas
