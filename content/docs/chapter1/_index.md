@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
 linktitle: Книга 1. "Пушкин"
-summary: ls.
-weight: 2
+summary: Восстань пророк...
+weight: 1
 icon: book
 icon_pack: fas
 
