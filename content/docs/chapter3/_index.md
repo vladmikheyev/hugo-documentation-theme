@@ -2,8 +2,8 @@
 # Title, summary, and page position.
 linktitle: ПРИМЕРЫ
 summary:
-weight: 1
-icon: ufo
+weight: 3
+icon: book
 icon_pack: fas
 
 # Page metadata.
