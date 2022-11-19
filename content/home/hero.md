@@ -13,7 +13,7 @@ cta:
   url: docs/
   label: начнем
   icon_pack: fas
-  icon: download
+  icon: link
 cta_alt:
   url: docs/
   label: СОДЕРЖАНИЕ
