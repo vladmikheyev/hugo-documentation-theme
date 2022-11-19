@@ -24,8 +24,8 @@ cta_note:
     </span>
 ---
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+Основной сайт по "Теории полюсов" [berega.tk](https://dev.bulgakov-cat.ru/)
 
-Write something interesting about your project here.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<a class="github-button" href="http://samlib.ru/m/miheew_w_g/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Михеев В.Г. на lib.ru">Материалы по Теории полюсов на lib.ru</a><br><a class="github-button" href="https://vlad-mikheyev.livejournal.com" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="на ЖЖ">материалы на ЖЖ</a><script async defer src="https://buttons.github.io/buttons.js"></script>
