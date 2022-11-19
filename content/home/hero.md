@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
+title: ТЕОРИЯ ПОЛЮСОВ
 hero_media: book.svg
 design:
   background:
@@ -11,12 +11,12 @@ design:
     text_color_light: true
 cta:
   url: docs/
-  label: Get Started
+  label: начнем
   icon_pack: fas
   icon: download
 cta_alt:
   url: docs/
-  label: View Documentation
+  label: СОДЕРЖАНИЕ
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
