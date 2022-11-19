@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: ПРИМЕРЫ
 summary:
-weight: 3
+weight: 1
 icon: book
 icon_pack: fas
 
